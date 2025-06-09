@@ -25,10 +25,10 @@ This repository is a solution for Assignment 1 of the Advanced Operating Systems
 
 ```bash
 # Compile the file reverser (Q1)
-g++ Q1.cpp -o q1
+g++ 2024201067_A1_Q1.cpp -o q1
 
 # Compile the output validator (Q2)
-g++ Q2.cpp -o q2
+g++ 2024201067_A1_Q2.cpp -o q2
 ```
 
 ## Usage and Execution
